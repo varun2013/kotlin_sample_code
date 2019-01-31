@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable_btn.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable/btn.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_fragment_sign__up1.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/fragment_sign__up1.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_linkedin.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/linkedin.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_icon1.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/icon1.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_fragment_sign__up2.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/fragment_sign__up2.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_select.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/select.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_fragment_forgot_password.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_cup.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/cup.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_tick.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/tick.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable_greybackground.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable/greybackground.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/res/merged/debug/drawable-hdpi_plan.png.flat",
+        "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/drawable-hdpi/plan.png"
+    }
+]

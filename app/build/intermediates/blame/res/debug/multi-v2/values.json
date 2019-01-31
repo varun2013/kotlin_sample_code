@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,59,115",
+                        "endColumns": "52,54,52",
+                        "endOffsets": "217,109,163"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,277",
+                        "endColumns": "52,54,52",
+                        "endOffsets": "217,272,325"
+                    }
+                },
+                {
+                    "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,515",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "474,672"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "330,614",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "609,769"
+                    }
+                },
+                {
+                    "source": "/home/user/talentprojects/DeptFetchr/code/local/androidSampleCode/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

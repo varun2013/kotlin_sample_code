@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:scrollbarAlwaysDrawVerticalTrack="true">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:id="@+id/progressBar"
+        android:progressDrawable="@drawable/circular_progress_bar" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:elevation="7dp"
+        android:id="@+id/back"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:layout_marginBottom="7dp"
+        android:thicknessRatio="3"
+        app:cardBackgroundColor="#FFFFFF"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/back_arrow"
+            android:layout_height="25dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Sign Up"
+                android:textSize="20dp"
+                android:id="@+id/tv"
+                android:layout_centerInParent="true"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+
+
+    </android.support.v7.widget.CardView>
+    <TextView
+        android:id="@+id/login_title"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="120dp"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:textColor="#AC77C7"
+        android:textStyle="normal"
+        android:text="What should we call you?"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        />
+    <ImageView
+
+        android:layout_alignParentBottom="true"
+        android:id="@+id/imgLogo"
+        android:background="@drawable/background1"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+
+        />
+    <RelativeLayout
+        android:id="@+id/login_body"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/login_title"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <!--<android.support.design.widget.TextInputLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--app:hintTextAppearance="@style/CustomTextAppearance"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <EditText
+                    android:id="@+id/user_firstname"
+                    android:backgroundTint="#000"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000"
+                    android:textSize="18dp"
+                    android:textColorHint="#888888"
+                    android:hint="First Name"
+                    android:inputType="textEmailAddress" />
+            <!--</android.support.design.widget.TextInputLayout>-->
+
+
+
+            <!--<android.support.design.widget.TextInputLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--app:hintTextAppearance="@style/CustomTextAppearance"-->
+                <!--android:layout_height="wrap_content">-->
+                <EditText
+                    android:id="@+id/user_lastname"
+                    android:backgroundTint="#000"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000"
+                    android:textColorHint="#888888"
+                    android:textSize="18dp"
+                    android:hint="Last Name"
+                    android:inputType="textEmailAddress" />
+            <!--</android.support.design.widget.TextInputLayout>-->
+
+
+            <Button
+                android:id="@+id/sign_up_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:text="SIGN UP"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:background="@drawable/mybutton"
+                android:textAllCaps="false"
+                android:textColor="#F8FAFC" />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
